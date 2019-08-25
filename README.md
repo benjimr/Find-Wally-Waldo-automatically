@@ -1,4 +1,3 @@
-# Find Wally(Waldo) automatically
 This program will attepmpt to find Wally in an a Where's Wally image, based on his red and white stripes and shape.
 
 ## How to use
